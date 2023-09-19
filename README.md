@@ -17,3 +17,5 @@ In config.py
 ## Imports
  - PIL
 
+
+## Created by Bolgaro4ka (Nikita Fedosov)
